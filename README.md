@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning machine learning / web development
 - 💞️ I’m looking to collaborate on machine learning ( object detection or deep learning ) projects
 - 📫 
-- 😄 Pronouns: He/Him
+- 😄 Pronouns: She/Her
 - ⚡ Fun fact: I love making games idk
 
 <!---
