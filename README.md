@@ -2,9 +2,9 @@
 - 👀 I’m interested in machine learning, web development, game design, and challenging programs :D
 - 🌱 I’m currently learning machine learning / web development
 - 💞️ I’m looking to collaborate on machine learning ( object detection or deep learning ) projects as well as web application development
-- 📫 
+- 📫 https://www.linkedin.com/in/tarun-srikumar-273585282/
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love making games idk
+- ⚡ Fun fact: I love making videogames!
 
 <!---
 5Tarun3/5Tarun3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
