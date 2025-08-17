@@ -5,6 +5,8 @@
 - 📫 https://www.linkedin.com/in/tarun-srikumar-273585282/
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love making videogames!
+- ## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=5Tarun3&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 <!---
 5Tarun3/5Tarun3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
